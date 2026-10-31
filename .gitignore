@@ -1,0 +1,4 @@
+*.pt
+*.wav
+*.flac
+__pycache__/
